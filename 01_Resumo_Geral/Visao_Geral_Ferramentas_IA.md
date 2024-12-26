@@ -1,0 +1,1 @@
+Visao_Geral_Ferramentas_IA.md: Uma introdução explicando rapidamente as principais plataformas de IA (Google, OpenAI, Oracle, etc.).

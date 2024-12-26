@@ -1,0 +1,1 @@
+Um arquivo que lista links importantes das documentações oficiais (por ex. Google Cloud, AWS, Azure, etc.).

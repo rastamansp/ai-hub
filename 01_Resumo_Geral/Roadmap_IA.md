@@ -1,0 +1,1 @@
+Roadmap_IA.md: Documento descrevendo a estratégia geral ou planos futuros de adoção de IA.

@@ -1,0 +1,1 @@
+Quadro_Comparativo.md: Uma tabela ou lista comparando cada ferramenta (pode converter a tabela que você já tem em Markdown).
